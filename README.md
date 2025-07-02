@@ -1,4 +1,4 @@
-# PythonAppCI-CD Via JENKINS MASTER-SLAVE CONCEPT
+# PythonAppCI-CD 
 
 ### Jenkins & GitHub Action Integration
 
