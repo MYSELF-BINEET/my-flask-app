@@ -8,7 +8,7 @@ def create_app():
 
     @app.route('/')
     def home():
-        return 'GFGGGGGG'
+        return 'MY NAME IS BINEET PRADHAN'
 
     return app
 
